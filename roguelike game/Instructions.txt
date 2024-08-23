@@ -1,0 +1,4 @@
+1.Click on the index file to start the program
+2.Once you're in the game, right-click to turn on the background music
+3.Players can use WASD to move
+4.Every 10 points obtained gives you a chance to get a booster bullet
